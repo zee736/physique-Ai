@@ -1,0 +1,13 @@
+{
+  "name": "physique-ai",
+  "version": "1.0.0",
+  "description": "PHYSIQUE AI — Your Personal Trainer, Always On",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "lemonsqueezy.js": "^1.2.2"
+  }
+}
